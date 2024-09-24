@@ -70,11 +70,11 @@ section.imagem > p{
     text-shadow: 2px 2px 0px black;
 }
 section#img01{
-    background-image: url(DE012/pacote-d012/imagens/background001.jpg);
+    background-image: url(pacote-d012/imagens/background001.jpg);
     background-position: right center;
 }
 section#img02{
-    background-image: url(DE012/pacote-d012/imagens/background002.jpg);
+    background-image: url(pacote-d012/imagens/background002.jpg);
 }
 footer{
     background-color: black;
